@@ -29,3 +29,20 @@
     cursor: pointer;
     color: blue;
 }
+
+.register_wrapper button{
+    padding: 10px 50px;
+    background-color: rgb(235, 154, 33);
+    border: 1px solid rgb(235, 154, 33);
+    border-radius: 8px;
+    color:white;
+    margin-left: 140px;
+    transition: all 0.5s;
+}
+
+.register_wrapper button:hover{
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    cursor: pointer;
+}
