@@ -1,0 +1,31 @@
+.register_wrapper{
+    max-width:500px;
+    width: 100%;
+    margin: 150px auto;
+    padding: 40px;
+    border-radius:10px;
+    box-shadow: 0px 0px 27px -10px rgb(200, 198, 198);
+}
+
+.register_wrapper h1{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.register_wrapper input{
+    width: 420px;
+    padding: 10px;
+    margin-bottom: 30px;
+    border: 1px solid rgb(204, 202, 202);
+    border-radius: 8px;
+}
+
+.register_wrapper p{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.register_wrapper p span{
+    cursor: pointer;
+    color: blue;
+}
